@@ -1,4 +1,4 @@
-![Banner](Data/Images/CSharp-Exercism-S05E01-Tuples-PhoneNumberAnalysis-Banner.png)
+![Banner](Data/Images/CSharp-Exercism-S05E01-Tuples-PhoneNumberAnalysis.png)
 
 ### CSharp-Exercism-S05E01-Tuples-PhoneNumberAnalysis
 
