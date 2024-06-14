@@ -1,4 +1,4 @@
-![Banner](Data/Images/CSharp-Exercism-S05E01-Tuples-PhoneNumberAnalysis-Banner.png)
+![Banner](Data/Images/CSharp-Exercism-S05E01-Tuples-PhoneNumberAnalysis.png)
 
 ### CSharp-Exercism-S05E01-Tuples-PhoneNumberAnalysis
 
@@ -8,7 +8,7 @@ This repository my work for the [Exercism](https://exercism.org/) C# track.
 `exercism download --track=csharp --exercise=phone-number-analysis`
 
 ### Submission Command
-`exercism submit "Exercism\csharp\log-analysis\PhoneNumberAnalysis"`
+`exercism submit "Exercism\csharp\log-analysis\PhoneNumberAnalysis.cs"`
 
 # Phone Number Analysis
 
