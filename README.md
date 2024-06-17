@@ -10,6 +10,8 @@ This repository my work for the [Exercism](https://exercism.org/) C# track.
 ### Submission Command
 `exercism submit "Exercism\csharp\log-analysis\PhoneNumberAnalysis.cs"`
 
+![Banner](Data/Images/CSharp-Exercism-S05-Tuples-Title.png)
+
 # Phone Number Analysis
 
 Welcome to Phone Number Analysis on Exercism's C# Track.
